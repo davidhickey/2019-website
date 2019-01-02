@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
+import ContactMe from './ContactMe';
 
 
 
@@ -19,6 +20,9 @@ class Page extends Component {
         </div>
         <div>
         <Portfolio/>
+        </div>
+        <div>
+        <ContactMe/>
         </div>
       </div>
 

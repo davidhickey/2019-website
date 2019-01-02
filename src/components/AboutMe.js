@@ -16,6 +16,9 @@ class AboutMe extends Component {
       <h3>{"I'm a Front-End Coder,"}</h3>
       <h4>{"a musician,"}</h4>
       <p>{"and a yogi."}</p>
+      <div>
+      {"Contact info section."}
+      </div>
       </div>
 
     );
