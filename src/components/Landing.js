@@ -9,7 +9,15 @@ class Landing extends Component {
 
   render() {
     return (
-      <p>Landing</p>
+      <div>
+      <p></p>
+      <h1>Landing Header 1</h1>
+      <h2>Landing Header 2</h2>
+      <h3>Landing Header 3</h3>
+      <h4>Landing Header 4</h4>
+      <p>Landing Paragraph</p>
+      </div>
+
     );
   }
 }
